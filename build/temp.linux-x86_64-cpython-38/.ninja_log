@@ -1,0 +1,13 @@
+# ninja log v5
+0	1863	1688633621	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-38/home/sortdesk1/23spring/yolact/external/DCNv2/src/cpu/dcn_v2_cpu.o	bedcb4545b4967a
+0	4938	1688633624	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-38/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	ba65d474c2d96043
+0	5113	1688633624	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-38/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	52e88c0b300b738f
+1	8422	1688633627	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-38/home/sortdesk1/23spring/yolact/external/DCNv2/src/vision.o	495a7f7fe8d93d29
+2	4672	1688634718	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-38/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	ba65d474c2d96043
+2	4777	1688634718	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-38/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	52e88c0b300b738f
+1	4604	1688634853	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-38/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	ba65d474c2d96043
+1	4823	1688634853	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-38/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	52e88c0b300b738f
+0	1456	1688636280636613843	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-38/home/sortdesk1/23spring/yolact/external/DCNv2/src/cpu/dcn_v2_cpu.o	4dfb4764fa1f18f0
+0	4267	1688636283444641296	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-38/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	ef50f9c98a506c94
+0	4456	1688636283636643173	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-38/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	5ed9ef424cf65335
+0	8036	1688636287212678097	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-38/home/sortdesk1/23spring/yolact/external/DCNv2/src/vision.o	776e85a398b1ddb9

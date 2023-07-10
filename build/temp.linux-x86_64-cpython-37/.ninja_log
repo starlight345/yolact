@@ -1,0 +1,21 @@
+# ninja log v5
+0	1924	1688546635372694158	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cpu/dcn_v2_cpu.o	2cd765c6fabc512
+0	4841	1688546638288734853	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	af4a59d92a6aa912
+0	5183	1688546638628739591	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	61789df8b7e2fd6c
+0	8498	1688546641944785713	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/vision.o	8a56c3896a2be0aa
+1	4759	1688546702661590522	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	af4a59d92a6aa912
+1	4780	1688546702685590830	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	61789df8b7e2fd6c
+12	4841	1688547626883641623	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	af4a59d92a6aa912
+12	5150	1688547627191493400	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	61789df8b7e2fd6c
+1	4409	1688550319547792625	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	af4a59d92a6aa912
+2	4685	1688550319823795433	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	61789df8b7e2fd6c
+1	4479	1688550338147975087	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	af4a59d92a6aa912
+1	4652	1688550338323976709	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	61789df8b7e2fd6c
+1	4543	1688550412328665461	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	af4a59d92a6aa912
+1	4667	1688550412452666717	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	61789df8b7e2fd6c
+1	4662	1688550423044773986	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	af4a59d92a6aa912
+1	4741	1688550423124774796	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	61789df8b7e2fd6c
+1	4603	1688629811032644712	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	af4a59d92a6aa912
+1	4895	1688629811324647346	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	61789df8b7e2fd6c
+1	4593	1688632761262598816	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	af4a59d92a6aa912
+1	4797	1688632761462600466	/home/sortdesk1/23spring/yolact/external/DCNv2/build/temp.linux-x86_64-cpython-37/home/sortdesk1/23spring/yolact/external/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	61789df8b7e2fd6c
